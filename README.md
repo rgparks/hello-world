@@ -6,5 +6,6 @@ May 6, 2018
 
 I installed GitHub on the mac. I installed Python 3.6 and began a tutorial.
 
+June 9, 2018
 
 It has been slow going. I was away and working.
