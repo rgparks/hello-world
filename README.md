@@ -10,3 +10,8 @@ June 9, 2018
 
 It has been slow going. I was away and working.
 Still trying to work out the workflow of this thing.
+
+June 10, 2018
+
+Checked out Introducing Github: A Non-Technical Guide to improve my Github workflow skills.
+
