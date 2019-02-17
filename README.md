@@ -15,3 +15,7 @@ June 10, 2018
 
 Checked out Introducing Github: A Non-Technical Guide to improve my Github workflow skills.
 
+February 17, 2019
+
+I am back. I have been busy but I have been coding. i just have not included github in my workflow.  This may change.
+
