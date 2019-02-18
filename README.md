@@ -19,3 +19,7 @@ February 17, 2019
 
 I am back. I have been busy but I have been coding. i just have not included github in my workflow.  This may change.
 
+February 18, 2019
+
+Last day before going back to work. I installed the Github client and synched updates back to github.
+
